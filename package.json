@@ -1,0 +1,17 @@
+{
+  "name": "gmail-cloud-func",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "quinton",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "googleapis": "^95.0.0",
+    "mammoth": "^1.8.0",
+    "xlsx": "^0.18.5"
+  }
+}
